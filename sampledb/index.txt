@@ -1,0 +1,3 @@
+sampledb/tb1@mail.txt
+sampledb/tb1@age.txt
+sampledb/tb1@name.txt
